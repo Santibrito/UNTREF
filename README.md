@@ -10,7 +10,7 @@ Este repositorio contiene todos los archivos de la página web, incluyendo los a
 ## Tecnologías utilizadas
 Las tecnologías principales que se utilizaron en este proyecto son:
 
-HTML: Utilizado para estructurar el contenido de la página web.
-CSS: Utilizado para dar estilo a la página web y hacer que sea atractiva visualmente.
-Bootstrap: Una biblioteca de CSS que se utilizó para hacer que la página web sea responsive, es decir, que se vea bien en todos los tamaños de pantalla.
+**HTML:** Utilizado para estructurar el contenido de la página web. <br><br>
+**CSS:** Utilizado para dar estilo a la página web y hacer que sea atractiva visualmente. <br><br>
+**Bootstrap:** Una biblioteca de CSS que se utilizó para hacer que la página web sea responsive, es decir, que se vea bien en todos los tamaños de pantalla.
 
